@@ -1,4 +1,4 @@
-package com.ram.actuator;
+package com.mtl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
